@@ -1,18 +1,12 @@
-Section 1
-
+#Section 1
 	text1
-Section 2
-
+#Section 2
 	editedagaintext2
-Section 3
-
+#Section 3
 	text3
-Section 4
-
+#Section 4
 	text4
-Section 5
-
+#Section 5
 	This is the fifth section.
-Section 6
-
+#Section 6
 	How quick is it to add an edit?
