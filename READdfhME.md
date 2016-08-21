@@ -1,2 +1,0 @@
-# VC-Report
-VC Report
