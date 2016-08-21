@@ -1,5 +1,5 @@
 #Section 1
-	text1
+	text1 shouldn't be in a box. New sentence.
 #Section 2
 	editedagaintext2
 #Section 3
