@@ -1,8 +1,8 @@
 Section 1
 
 	text1
-	
 Section 2
+
 	editedagaintext2
 Section 3
 	text3
